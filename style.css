@@ -1,0 +1,36 @@
+/Reset Rule
+{margin 0;
+padding 0;
+}
+
+nav ul {
+    background-color: lightblue;
+}
+nav ul li {
+    list-style-type: none;
+}
+nav ul li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+nav ul {
+  background-color:lightcoral;
+  border-style: solid;
+  border-color: MediumBlackRed;
+  border-width: 2px;
+  padding: 10px;
+}
+nav ul li a {
+    text-decoration: none;
+}
+
+body {
+  background-color:lightcoral;
+}
+    
+body{
+  background-image: url(
+94719819fd37b05377cf63b038a6e990.jpg)
+}
